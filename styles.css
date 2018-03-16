@@ -61,7 +61,7 @@ button.btn.btn-outline-primary.bt2 {
 @media only screen and (min-width: 1300px) {
     a.navbar-brand.text-sm-left {
          position: relative;
-         left: -100px;
+         left: -190px;
     }
 }
 @media only screen and (min-width: 1300px) {
@@ -71,13 +71,15 @@ button.btn.btn-outline-primary.bt2 {
 }
 @media only screen and (min-width: 1300px) {
       li.nav-item.active  {
-        padding-right: 50px !important;
+        padding-right: 20px !important;
     }
 }
 @media only screen and (min-width: 1300px) {
       div#navbarNavDropdown.collapse.navbar-collapse {
         padding-right: 100px !important;
-        font-size: 20px;
+        position: relative;
+        left: 230px !important;
+        font-size: 16px;
     }
 }
 
