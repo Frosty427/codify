@@ -59,7 +59,7 @@ button.btn.btn-outline-primary.bt2 {
 
 
 @media only screen and (min-width: 1300px) {
-    a.navbar-brand.text-sm-left {
+    a.navbar-brand.text-sm-left.d-none.d-lg-block.d-xl-block {
          position: relative;
          left: -190px;
     }
